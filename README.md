@@ -2,8 +2,8 @@
 Simple landing page
 
 # Getting Stared
-1)Clone the project file
-2)Unzip the file to your working place
+1) Clone the project file
+2) Unzip the file to your working place
 
 # Prerequest
 1) Any Web browser
